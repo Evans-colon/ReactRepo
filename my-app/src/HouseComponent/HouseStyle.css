@@ -1,0 +1,37 @@
+.Land{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.Foundation{
+    background-color:blue;
+    display: flex;
+    justify-content: center;
+}
+
+.WallContainer2{
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end;
+    /* align-items: flex-end; */
+    
+ 
+}
+
+.Window1{
+    padding-right: 30px;
+}
+
+.Window2{
+    padding-left: 30px;
+}
+
+.WallContainer1{
+    background-color: blue;
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 80px;     
+}
+
+
